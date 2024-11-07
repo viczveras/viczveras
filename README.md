@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://www.linkedin.com/in/victor-véras-527954221/" height="25" alt="linkedin logo"  />
-  <img src="https://www.youtube.com/@verasfivem" height="25" alt="youtube logo"  />
-  <img src="https://twitter.com/victorverasx" height="25" alt="twitter logo"  />
-  <img src=https://www.instagram.com/verasvictor1/" height="25" alt="instagram logo"  />
-</div>
-
+<h1> Hello! 👋👋 </h1>
 ###
 
 <div align="center">
