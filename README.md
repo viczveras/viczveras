@@ -38,8 +38,6 @@
 
 <br>
 
-## 📊 Estatísticas
-
 <p align="center">
 </p>
 
