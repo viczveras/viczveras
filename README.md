@@ -15,7 +15,6 @@
 
 - 🌐 Desenvolvimento de **sites e sistemas**, do front ao back
 - 🤖 Criação de **agentes de automação e IA com n8n**
-- 👨‍💻 Recém chegado ao mundo da programação, aprendendo de forma consistente
 - 📚 Documentando cada passo dos primeiros scripts a projetos reais
 - 🎯 Objetivo atual: construir projetos completos do zero, do design ao deploy, e fazer contribuições a projetos OpenSource
 
