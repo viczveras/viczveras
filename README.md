@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&section=header&text=Victor%20V%C3%A9ras&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%7C%20Sites%2C%20Sistemas%20%26%20Automa%C3%A7%C3%A3o%20com%20IA&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=180&section=header&text=Victor%20Veras&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+sites+e+sistemas;Cria%C3%A7%C3%A3o+de+agentes+com+n8n;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@
 - 🤖 Criação de **agentes de automação e IA com n8n**
 - 👨‍💻 Recém chegado ao mundo da programação, aprendendo de forma consistente
 - 📚 Documentando cada passo dos primeiros scripts a projetos reais
-- 🎯 Objetivo atual: construir projetos completos do zero, do design ao deploy, e fazer contribuições a projetos OpenSource.
+- 🎯 Objetivo atual: construir projetos completos do zero, do design ao deploy, e fazer contribuições a projetos OpenSource
 
 <br>
 
