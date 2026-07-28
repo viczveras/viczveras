@@ -1,45 +1,52 @@
-<h1 align="center">Olá! 👋</h1>
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=viczveras.viczveras" alt="visitor badge" />
-  <img src="https://img.shields.io/github/followers/viczveras?label=Followers&style=social" alt="followers" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&section=header&text=Victor%20V%C3%A9ras&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%7C%20Sites%2C%20Sistemas%20%26%20Automa%C3%A7%C3%A3o%20com%20IA&descAlignY=55&descAlign=50" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+sites+e+sistemas;Cria%C3%A7%C3%A3o+de+agentes+com+n8n;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=viczveras.viczveras" alt="visitor badge" />
+<img src="https://img.shields.io/github/followers/viczveras?label=Followers&style=social" alt="followers" />
+
 </div>
 
-<h3 align="left">Sobre mim</h3>
+<br>
 
-- 👋 Olá, eu sou o Victor!
-- 👨‍💻 Recém chegado ao mundo da programação, focado em aprender de forma consistente.
-- 📚 Documentando cada passo dessa jornada — desde os primeiros scripts até projetos reais.
-- 🌱 Explorando web development (HTML, CSS, front-end com React) e automação com Python/Lua.
-- 🎯 Objetivo atual: construir projetos completos do zero, do design ao deploy.
+## 🧭 Sobre mim
 
-<h3 align="left">Linguagens & Ferramentas</h3>
+- 🌐 Desenvolvimento de **sites e sistemas**, do front ao back
+- 🤖 Criação de **agentes de automação e IA com n8n**
+- 👨‍💻 Recém chegado ao mundo da programação, aprendendo de forma consistente
+- 📚 Documentando cada passo — dos primeiros scripts a projetos reais
+- 🎯 Objetivo atual: construir projetos completos do zero, do design ao deploy
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python" title="Python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript" title="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="typescript" title="TypeScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react" title="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="34" alt="lua" title="Lua" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5" title="HTML5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3" title="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git" title="Git" />
-</div>
+<br>
 
-<h3 align="left">Estatísticas</h3>
+## 🛠️ Linguagens & Ferramentas
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viczveras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viczveras&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=viczveras&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
+<br>
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viczveras&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viczveras&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=viczveras&theme=radical&hide_border=true" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" width="100%" />
